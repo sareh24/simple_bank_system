@@ -1,4 +1,4 @@
- simple_bank_system
+#simple_bank_system
 #This project is a simple text-based banking system mplemented in Python. 
 #It allows users to perform basic banking operations such as deposit, withdrawal, 
 #and balance inquiry. The system reads account information from an input file, 
